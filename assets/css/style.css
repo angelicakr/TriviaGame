@@ -1,0 +1,11 @@
+body { 
+    background: rgb(197, 247, 99);
+}
+
+.end-screen {
+    display: none;
+}
+.container{
+    color:gray;
+    align-content: center;
+}
